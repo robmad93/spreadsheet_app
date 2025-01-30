@@ -16,7 +16,7 @@ A spreadsheet app built using Javascript that performs various basic functions (
 - lasttwo: returns last two numbers of an array
 - has2: returns true if an array contains the number 2
 - increment: adds 1 to each number of an array
-- random: generates a ranfom number between the specified lower and upper bounds
+- random: generates a random number between the specified lower and upper bounds
 - range: generates a range of integers between the specified lower and upper bounds
 - nodupes: removes duplicates from an array
 
